@@ -28,19 +28,6 @@
 ![HOMEMANYUSERS](https://user-images.githubusercontent.com/22797982/104231012-f1a27600-5413-11eb-8f32-1e04dc6ac4e1.png)
 
 
-### Pre-requisitos 📋
-
-
-
-* ANDROID STUDIO
-* JAVA SDK
-* FLUTTER
-* LIBRARY 1: cupertino_icons: ^0.1.3
-* LIBRARY 2: speech_to_text: ^2.3.0
-* LIBRARY 3: highlight_text: ^0.7.2
-* LIBRARY 4: avatar_glow: ^1.2.0
-
-
 
 
 ### Instalación 🔧
