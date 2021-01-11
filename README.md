@@ -39,7 +39,6 @@
 
 # Installation
 ```
-git clone https://github.com/FaztTech/nodejs-imgshare
 cd nodejs-imagshare
 npm install 
 npm start
