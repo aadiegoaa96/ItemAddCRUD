@@ -39,7 +39,6 @@
 
 # Installation
 ```
-cd nodejs-imagshare
 npm install 
 npm start
 ```
