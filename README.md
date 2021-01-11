@@ -6,6 +6,13 @@
 ## SOCIAL NETWORK 🚀
 
 
+
+![SIGNUP](https://user-images.githubusercontent.com/22797982/104230265-f581c880-5412-11eb-9aab-9ec5ee4b329c.png)
+
+
+![SIGNUP OK](https://user-images.githubusercontent.com/22797982/104230560-59a48c80-5413-11eb-8b21-9eb51b98a12b.png)
+
+
 ![HOMEPAGE](https://user-images.githubusercontent.com/22797982/104230457-3aa5fa80-5413-11eb-94dc-1ee1c469ee62.png)
 
 
@@ -13,12 +20,6 @@
 
 
 ![PHOTOUPLOAD1](https://user-images.githubusercontent.com/22797982/104230780-a12b1880-5413-11eb-9bce-734d097151fd.png)
-
-
-![SIGNUP](https://user-images.githubusercontent.com/22797982/104230265-f581c880-5412-11eb-9aab-9ec5ee4b329c.png)
-
-
-![SIGNUP OK](https://user-images.githubusercontent.com/22797982/104230560-59a48c80-5413-11eb-8b21-9eb51b98a12b.png)
 
 
 ![MANYPOSTPHOTOCOMMENT](https://user-images.githubusercontent.com/22797982/104230959-dafc1f00-5413-11eb-8732-d2ac7a15f107.png)
@@ -87,12 +88,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 ---
 ⌨️ con ❤️ por [DiegoBermudez](https://github.com/aadiegoaa96) 😊
 
-
-
-imgShare is a web application to share images, comments, and more.
-
-![](docs/screenshot1.png)
-
-# Improvements for the Future
-- Input Validation (to avoid XSS)
-- User Authentication
