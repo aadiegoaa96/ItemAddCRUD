@@ -6,8 +6,25 @@
 ## SOCIAL NETWORK 🚀
 
 
+![HOMEPAGE](https://user-images.githubusercontent.com/22797982/104230457-3aa5fa80-5413-11eb-94dc-1ee1c469ee62.png)
+
+
+![UPLOADINGPHOTO](https://user-images.githubusercontent.com/22797982/104230843-ba33c980-5413-11eb-9715-d20661171a37.png)
+
+
+![PHOTOUPLOAD1](https://user-images.githubusercontent.com/22797982/104230780-a12b1880-5413-11eb-9bce-734d097151fd.png)
+
 
 ![SIGNUP](https://user-images.githubusercontent.com/22797982/104230265-f581c880-5412-11eb-9aab-9ec5ee4b329c.png)
+
+
+![SIGNUP OK](https://user-images.githubusercontent.com/22797982/104230560-59a48c80-5413-11eb-8b21-9eb51b98a12b.png)
+
+
+![MANYPOSTPHOTOCOMMENT](https://user-images.githubusercontent.com/22797982/104230959-dafc1f00-5413-11eb-8732-d2ac7a15f107.png)
+
+
+![HOMEMANYUSERS](https://user-images.githubusercontent.com/22797982/104231012-f1a27600-5413-11eb-8f32-1e04dc6ac4e1.png)
 
 
 ### Pre-requisitos 📋
