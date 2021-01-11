@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "http://C:\\Users\\dbcpa\\OneDrive\\Escritorio\\PROCESAMIENTO LENGUAJE NATURAL 05 12 2020\\nodejs-imgshare-master\\nodejs-imgshare-master",
+            "request": "launch",
+            "url": "http://C:\\Users\\dbcpa\\OneDrive\\Escritorio\\PROCESAMIENTO LENGUAJE NATURAL 05 12 2020\\nodejs-imgshare-master\\nodejs-imgshare-master"
+        }
+    ]
+}
