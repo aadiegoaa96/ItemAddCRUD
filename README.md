@@ -7,9 +7,7 @@
 
 
 
-
-
-![FLUTTER VOICE RECOGNITION](https://user-images.githubusercontent.com/22797982/101290810-1e86bc00-37ca-11eb-9d8c-29b57c247f3e.jpeg)
+![SIGNUP](https://user-images.githubusercontent.com/22797982/104230265-f581c880-5412-11eb-9aab-9ec5ee4b329c.png)
 
 
 ### Pre-requisitos 📋
